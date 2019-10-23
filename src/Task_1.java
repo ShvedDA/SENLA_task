@@ -13,6 +13,9 @@ public class Task_1 {
           for (int i = 2; i < n; i++) {
           if ((n % i) == 0) {
           isPrime = false;
+              qweqwe
+                  qwe
+                  qwe
            }
            }
            if (isPrime) System.out.print(n+" ");
